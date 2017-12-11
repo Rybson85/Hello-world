@@ -1,2 +1,3 @@
 # Hello-world
-Pierwsze kroki z GH
+Very first step with Git.
+I like pancakes.
